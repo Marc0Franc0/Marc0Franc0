@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋 ,soy Marco Franco</h1>
 <h3 align="center">Desarrollador Backend</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marc0franc0&label=Profile%20views&color= 0e75b6&style=flat" alt="marc0franc0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marc0franc0&label=Profile%20views&color=0e75b6&style=flat" alt="marc0franc0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marc0franc0" alt="marc0franc0" /></a> </p>
 
