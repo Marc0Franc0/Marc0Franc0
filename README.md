@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋 ,soy Marco Franco</h1>
-<h3 align="center">Desarrollador Backend</h3>
+<h1 align="center">Hola, soy Marco 👋 </h1>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marc0franc0" alt="marc0franc0" /></a> </p>
 
